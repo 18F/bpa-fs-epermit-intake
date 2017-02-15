@@ -226,7 +226,7 @@ Proposed personnel shall have a strong technical experience base in the followin
 
 ## 4.2 Key Personnel
 
-**For this task the following Key Personnel are necessary (as detailed at [https://pages.18f.gov/agile-labor-categories/](https://pages.18f.gov/agile-labor-categories/)): **
+**For this task the following Key Personnel are necessary (as detailed at [https://pages.18f.gov/agile-labor-categories/}(https://pages.18f.gov/agile-labor-categories/))**
 
 -   **Product Manager**
 
@@ -246,7 +246,7 @@ Offerors shall submit a signed Potential Organizational Conflict of Interest Sta
 
 COI responses must be provided in the appropriate field of the provided Google Form order to be considered for award.
 
-**The Government intends to accomplish the quote and evaluation process in 2 distinct phases. **
+**The Government intends to accomplish the quote and evaluation process in 2 distinct phases.**
 
 The following milestones are provided for this solicitation.
 
