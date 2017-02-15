@@ -1,14 +1,10 @@
 # 18F Agile Blanket Purchase Agreement
---------------------------------------------
 
 # Request for Quotation
-----------------------------
 
 # Statement of Objective
-------------------------------
 
 # 1.0 BACKGROUND
----------------------
 
 ## Forest Service Permitting
 
@@ -54,8 +50,7 @@ The prototype currently supports a subset of the user stories from this RFQ’s 
 
 -   As an applicant, I would like to be able to check back on the application after I submit it.
 
-# 2.0 PERFORMANCE OBJECTIVES**
----------------------------------
+# 2.0 PERFORMANCE OBJECTIVES
 
 The following user needs shall be met in order to fulfill the objectives for performance of this task order, and may be refined by later sprints to continuously meet user needs. In agreement with the product owner, user stories can be modified, added, retracted or reprioritized.
 
@@ -170,14 +165,13 @@ submit it.
 -   As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in one or two-week sprints and reviewed at the end of each sprint for acceptability per the Quality Assurance Surveillance Plan (QASP).
 
 # 3.0 SCOPE
-----------------
 
 This application is an intake module for all special uses permitting. To satisfy the needs of non-commercial groups, temporary outfitter, and guide permits, the following deliverables must be provided by the conclusion of performance.
 
 #### 3.1 List of Deliverables
 
 **| DELIVERABLES | DUE DATES | CONTENT DESCRIPTION |**
-|----------|:-------------:|------:|
+|:----------:|:-------------:|:------:|
 | Code Repository of Product | Ongoing with every applicable sprint | Version-controlled Open Source repository of code that comprises product that will remain in the public domain |
 
 | Issues in repository from usability testing | Ongoing with applicable sprint | Usability or other issues discovered via usability testing and documented in the project’s source control system |
@@ -236,12 +230,11 @@ Proposed personnel shall have a strong technical experience base in the followin
 
 -   **Product Manager**
 
--   ** Interaction Designer / User Researcher / Usability Tester**
+-   **Interaction Designer / User Researcher / Usability Tester**
 
 -   **Offerors must choose only 1 of any of these 3 labor categories as the third Key Personnel position Technical Architect / Backend Developer / Frontend Developer**
 
 # 5.0 INSTRUCTIONS
------------------------
 
 ## 5.1 Milestones
 
@@ -316,7 +309,7 @@ Written technical quotes that fail to include any of the items identified above 
 
 If potential Offerors intend to use any Contractor Teaming Arrangements CTAs/Subcontractor arrangements, then they must provide a description of it that includes company names, personnel, and the parts of performance to be provided. Because CTAs and subcontractor arrangement are not the same, Offerors shall clearly identify if they are proposing a CTA or subcontractor arrangement. If the offeror is not proposing any CTAs/subcontractor arrangements, then they are not required to do anything to indicate that they are not doing so.
 
-###5.2.2 Written Price Quote **
+###5.2.2 Written Price Quote
 
 The Government hereby seeks further price reductions and Most Favored Customer (MFC) pricing for all proposed services. Offerors are advised to provide your best discounted rates.
 
@@ -324,7 +317,7 @@ Offerors shall submit a separate price quotation via the provided worksheet temp
 
 All proposed labor rates shall be consistent with your the terms, conditions, and rates of your aBPA. Proposed labor rates must be fully burdened, inclusive of profit, fringe benefits, salary, indirect rates, and the GSA Contract Access Fee (CAF).
 
-## 5.3 Phase 2 - Oral Presentation**
+## 5.3 Phase 2 - Oral Presentation
 
 Oral presentations will only be scheduled with potential offerors who have successfully advanced through phase 1.
 
@@ -339,7 +332,7 @@ Oral presentations will only be scheduled with potential offerors who have succe
 | 3 | Break For Offeror & Government Questions | 5 minutes |
 
 | 4 | Follow Up Session (if needed) | 15 minutes |
-**
+
 ### Rules
 
 No aspect of these oral presentations constitutes a procedure in FAR Part 15, such as discussions or negotiations. Therefore, the Government is not obligated to and will not determine a competitive range, conduct discussions, and request quote revisions.
@@ -347,6 +340,7 @@ No aspect of these oral presentations constitutes a procedure in FAR Part 15, su
 The oral presentation consists of an initial question and answer session on technical factors, and, if necessary, a follow-up question and answer session. The entire oral presentation will be conducted remotely via video and audio.
 
 Offerors shall not make use of, provide, or present slides, graphs, charts or any other written presentation materials nor will the Government accept or receive Offeror handouts.
+
 ### Content
 The Technical Session will consist of the answering the Government’s core questions related to the technical factors identified in this solicitation.
 
@@ -357,16 +351,20 @@ This part of the oral presentations will not exceed 25 minutes. The Contracting 
 Note that each Offeror will be provided the Technical Session questions, via e-mail, approximately 60 minutes prior to their Oral Presentation. The goal of these presentations is to assess the technical abilities of the proposed Key Personnel and further elaborate on their proposed technical approach to accomplish the objectives of this task.
 
 The Government may take notes during the presentation at its discretion and exclusive right and property, and may use such notes in the evaluation. No copies will be provided to the Offeror.
+
 ### Follow Ups (only if necessary)
 The Government will allocate 15 minutes for follow-up questions following the Offeror’s answers to the core questions on technical factors. This is purely to ensure the Government has understood each Offeror’s responses provided in the Technical Session.
 
 If necessary, the Government may ask followup questions during this time on any answers presented by the Offeror that the Government feels is unclear or needs elaboration to comprehend. The Government’s questions may differ among the Offerors based on what needs elaboration.
 
 If the Government has no follow-up questions with a particular Offeror, then this session won’t occur. The answers given in this session are considered part of the Offeror’s Technical Session, as any question posed is not new but merely clarifying an Offeror’s response.
+
 ### Presentation Location
 Oral Presentations will be conducted by video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial in or links using a tool such as Zoom).
+
 ### Presentation Date and Time
 The Government will schedule the date and time of the oral presentations with each Offeror after the solicitation closing date and receipt of Offeror quote submissions. The Government reserves the right to reschedule any Offeror’s orals date at the discretion of the contracting officer.
+
 ### Presentation Participants
 **If proposed Key Personnel do not participate then offerors will be deemed non-compliant and excluded from further consideration.**
 
@@ -377,7 +375,6 @@ All proposed Key Personnel currently employed by the Offeror or its teaming part
 After the presentations, vendors shall provide an email to confirm attendance with names of participants to the meeting organizers.
 
 # 6.0 EVALUATION
----------------------
 
 ## 6.1 Technical Evaluation Factors
 
@@ -399,16 +396,15 @@ Each Offeror’s price quotation will be evaluated separately from the technical
 
 The Government intends to utilize a two phased quote and staggered evaluation process for this procurement. Of the total potential offerors on the aBPA, only those who satisfy Phase 1 will be evaluated for purposes of award.
 
-### Phased Compliance Check**. The Government will review all offers at each phase to ensure compliance with the instructions and requirements set forth in the solicitation. Offerors that are not compliant with the solicitation will not be considered in the next phase.
+### Phased Compliance Check. The Government will review all offers at each phase to ensure compliance with the instructions and requirements set forth in the solicitation. Offerors that are not compliant with the solicitation will not be considered in the next phase.
 
-### Quote Evaluation.** Review of written Technical quote and Oral Presentations. The Offeror’s written technical quote and responses to questions asked during the Oral Presentations will be evaluated based on an assessment by the Government technical evaluation team of their strengths, weaknesses, and risks associated with the technical factors described above.
+### Quote Evaluation. Review of written Technical quote and Oral Presentations. The Offeror’s written technical quote and responses to questions asked during the Oral Presentations will be evaluated based on an assessment by the Government technical evaluation team of their strengths, weaknesses, and risks associated with the technical factors described above.
 
 Based upon the Government’s evaluation of each quote’s technical strengths, weaknesses, and risks, the Government will provide a narrative, ordinal ranking of each quote received in terms of the highest to lowest ranked technical quotes.
 
 Following the ranking of technical quotes, price will be introduced and a best value decision will be made in accordance with Section 7 below. The Government will provide a brief explanation in accordance with FAR 8.405-2(d) to unsuccessful offerors upon timely request.
 
 # 7.0 BASIS for AWARD
---------------------------
 
 The final award for this requirement will be based on best-value principles. Accordingly, award will be made to the responsible and technically acceptable Offerors whose quote provides the greatest overall value to the Government, price and other factors considered.
 
@@ -417,7 +413,6 @@ This best-value determination will be accomplished by comparing the value of the
 In making this comparison, the Government is more concerned with obtaining superior technical and management capabilities than with making awards at the lowest overall price to the Government. However, the Government will not make awards at a significantly higher overall price to achieve slightly superior technical value. Offerors are advised that the technical evaluation factors combined are significantly more important than price.
 
 # 8.0 AWARDED TASK
------------------------
 
 This task order is a Firm-Fixed Price type award with a base period of three months and one three-month option period.
 
@@ -434,14 +429,12 @@ Product Owner: [To Be Determined]
 Other pertinent information related to Incorporated Clauses, Invoicing, 18F’s Transparency Policy, Data Rights, Section 508 Compliance, and other incorporated terms and conditions from the contractor’s aBPA are provided in the QASP.
 
 # 9.0 CONTRACT CLAUSES INCORPORATED BY REFERENCE
---------------------------------------------------
 
 FAR 52.227-17 Rights in Data -- Special Works (DEC 2007)
 
 FAR 52.217-5 Evaluation of Options (JUL 1990)
 
 # 10. CONTRACT CLAUSES INCORPORATED IN FULL TEXT
---------------------------------------------------
 
 ### FAR 52.252-1 -- SOLICITATION PROVISIONS INCORPORATED BY REFERENCE (FEB 1998)
 
