@@ -19,7 +19,7 @@ Non-profit clubs and organizations (such as the Boy Scouts, YMCA, mountaineering
 Special use administrators (the people who manage the process of distributing permits at the forest level).
 
 ###How to respond:
-Respond to the answers in this [form][https://goo.gl/forms/j29QwBoRNA5cMzPK2]!
+Respond to the answers in this [form](https://goo.gl/forms/j29QwBoRNA5cMzPK2)!
 
 ###Key personnel:
 * PM
