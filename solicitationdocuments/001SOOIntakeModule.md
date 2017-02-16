@@ -170,16 +170,13 @@ This application is an intake module for all special uses permitting. To satisfy
 
 #### 3.1 List of Deliverables
 
-**| DELIVERABLES | DUE DATES | CONTENT DESCRIPTION |**
+| **DELIVERABLES** | **DUE DATES** | **CONTENT DESCRIPTION** |
 |:----------:|:-------------:|:------:|
 | Code Repository of Product | Ongoing with every applicable sprint | Version-controlled Open Source repository of code that comprises product that will remain in the public domain |
-
 | Issues in repository from usability testing | Ongoing with applicable sprint | Usability or other issues discovered via usability testing and documented in the project’s source control system |
 | Design Deliverables | Ongoing with every applicable sprint | Mock ups and/or design files if applicable, or design changes reflected in the Development Product |
-
 | Issues from user testing | Ongoing with applicable sprint | Issues raised by user testing |
 | Development Product | Ongoing with applicable sprint | In-progress development product, accessible on the web via staging server / development server |
-
 | Transition plan | Per direction of COR | Provided in QASP |
 
 # 4.0 PROPOSED PERSONNEL
@@ -250,7 +247,7 @@ COI responses must be provided in the appropriate field of the provided Google F
 
 The following milestones are provided for this solicitation.
 
-**| No. | DUE DATES | ACQUISITION EVENT |**
+| **No.** | **DUE DATES** | **ACQUISITION EVENT** |
 |----------|:-------------:|------:|
 | 1 | February 15, 2017 | Solicitation Released |
 | 2 | February 17, 2017 by 3:00PM EST | Questions about Solicitation Due |
@@ -323,14 +320,12 @@ Oral presentations will only be scheduled with potential offerors who have succe
 
 ### Oral Presentations Agenda
 
-**| No. | AGENDA ITEM | MAXIMUM TIME |**
+| **No.** | **AGENDA ITEM** | **MAXIMUM TIME** |
 |----------|:-------------:|------:|
 | 0 | Government Provides Oral Questions to Offeror (e-mail) | Approximately 60 minutes Prior to Oral Presentation minutes |
-
 | 1 | Introductions | Approximately 5 minutes |
 | 2 | Technical Session | 25 minutes |
 | 3 | Break For Offeror & Government Questions | 5 minutes |
-
 | 4 | Follow Up Session (if needed) | 15 minutes |
 
 ### Rules
