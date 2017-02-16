@@ -29,6 +29,12 @@ Respond to the answers in this [form](https://goo.gl/forms/j29QwBoRNA5cMzPK2)!
 ###Period of Performance:
 3 Base Period/ 1 - 3 month option
 
+##Solicitation Documents
+* [RFQ/SOO](https://github.com/18F/bpa-fs-epermit-intake/blob/master/solicitationdocuments/001SOOIntakeModule.md)
+* [Pricing Template](https://github.com/18F/bpa-fs-epermit-intake/blob/master/solicitationdocuments/002%20Pricing%20Template.xlsx)
+* [QASP](https://github.com/18F/bpa-fs-epermit-intake/blob/master/solicitationdocuments/003QASP.md)
+* [List of Google Form Questions](https://github.com/18F/bpa-fs-epermit-intake/blob/master/solicitationdocuments/004GoogleFormQuestions.md)
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
