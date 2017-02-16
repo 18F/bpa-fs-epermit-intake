@@ -391,9 +391,9 @@ Each Offeror’s price quotation will be evaluated separately from the technical
 
 The Government intends to utilize a two phased quote and staggered evaluation process for this procurement. Of the total potential offerors on the aBPA, only those who satisfy Phase 1 will be evaluated for purposes of award.
 
-### Phased Compliance Check. The Government will review all offers at each phase to ensure compliance with the instructions and requirements set forth in the solicitation. Offerors that are not compliant with the solicitation will not be considered in the next phase.
+**Phased Compliance Check.** The Government will review all offers at each phase to ensure compliance with the instructions and requirements set forth in the solicitation. Offerors that are not compliant with the solicitation will not be considered in the next phase.
 
-### Quote Evaluation. Review of written Technical quote and Oral Presentations. The Offeror’s written technical quote and responses to questions asked during the Oral Presentations will be evaluated based on an assessment by the Government technical evaluation team of their strengths, weaknesses, and risks associated with the technical factors described above.
+**Quote Evaluation.** Review of written Technical quote and Oral Presentations. The Offeror’s written technical quote and responses to questions asked during the Oral Presentations will be evaluated based on an assessment by the Government technical evaluation team of their strengths, weaknesses, and risks associated with the technical factors described above.
 
 Based upon the Government’s evaluation of each quote’s technical strengths, weaknesses, and risks, the Government will provide a narrative, ordinal ranking of each quote received in terms of the highest to lowest ranked technical quotes.
 
