@@ -8,17 +8,17 @@ The documents in this repository are posted to eBuy under ID1171039. The documen
 
 Please remember: The documents in eBuy should always be considered the documents of record.
 
-##Background:
+## Background:
 The U.S. Forest Service is engaged in an ongoing effort to modernize and simplify their permitting processes. One facet of this effort is “ePermitting”, or making the applications for many Forest Service permits available online.  This application is for a public front-end intake module for use by non-commercial groups, temporary outfitter, and guide permits.
 
-###What we're hoping to get built:
+### What we're hoping to get built:
 This application must be centered on the needs of its *end users*, as follows:
 Outfitters and guides who apply for permits;
 Schools and higher education institutions leading trips in National Forests;
 Non-profit clubs and organizations (such as the Boy Scouts, YMCA, mountaineering groups); and,
 Special use administrators (the people who manage the process of distributing permits at the forest level).
 
-###How to respond:
+### How to respond:
 Respond to the answers in this [form](https://goo.gl/forms/j29QwBoRNA5cMzPK2)!
 
 ### Key personnel:
