@@ -21,15 +21,15 @@ Special use administrators (the people who manage the process of distributing pe
 ###How to respond:
 Respond to the answers in this [form](https://goo.gl/forms/j29QwBoRNA5cMzPK2)!
 
-###Key personnel:
+### Key personnel:
 * PM
 * Backend developer
 * user researcher
 
-###Period of Performance:
+### Period of Performance:
 3 Base Period/ 1 - 3 month option
 
-##Solicitation Documents
+## Solicitation Documents
 * [RFQ/SOO](https://github.com/18F/bpa-fs-epermit-intake/blob/master/solicitationdocuments/001SOOIntakeModule.md)
 * [Pricing Template](https://github.com/18F/bpa-fs-epermit-intake/blob/master/solicitationdocuments/002%20Pricing%20Template.xlsx)
 * [QASP](https://github.com/18F/bpa-fs-epermit-intake/blob/master/solicitationdocuments/003QASP.md)
